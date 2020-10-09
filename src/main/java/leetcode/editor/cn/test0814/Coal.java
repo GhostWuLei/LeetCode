@@ -19,7 +19,6 @@ public class Coal implements Cloneable{
     }
 
 
-
     public String getName() {
         return name;
     }
