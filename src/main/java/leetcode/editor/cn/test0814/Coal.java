@@ -15,7 +15,6 @@ public class Coal implements Cloneable{
     private double amount = 0;//船的吨位数 也是最小购买量 默认为0 由用户界面输入
 
 
-
     public Coal() {
     }
 
